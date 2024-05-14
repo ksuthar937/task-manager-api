@@ -33,7 +33,7 @@ Ensure you have Node.js installed on your machine. You can download and install 
    
    ##### npm start
    
-   This command will start the Express.js server, and it will listen for incoming requests on port 4000 by default. If you want to specify a different port, you can set the PORT environment variable before running the command:
+   This command will start the Express.js server, and it will listen for incoming requests on port 4000 by default.
    
 
 
